@@ -138,6 +138,9 @@ color: var(--slate, #434455);
 }
 .background-cloud {
     background: var(--cloud, #F4F4FD);
+    width: 1440px;
+        height: 732px;
+        flex-shrink: 0;
 }
 .h2-main-page{
     color: var(--navyblue, #2E2F42);
