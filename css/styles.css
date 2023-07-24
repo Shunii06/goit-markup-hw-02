@@ -9,7 +9,6 @@ a {
     text-decoration: none;
 }
 :root {color-scheme: 'basic';}
-
 .main-link {
     color: var(--navyblue, #2E2F42);
         font-family: Raleway;
